@@ -1,0 +1,22 @@
+.jumbotron {
+	text-align: center;
+	background-color: #135366;
+	color: #ffffff;
+	height: 265px;
+}
+
+h1 {
+	font-size: 100px;
+}
+
+.panel-title {
+	background-color: #135366;
+	color: #ffffff;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 12px;
+}
+
+#addTrainButton {
+	background-color: #135366;
+}
