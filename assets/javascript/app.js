@@ -80,7 +80,7 @@ $(document).ready(function () {
   		//get the remainder of dividing time diufference by train frequency
   		var timeRemaining = timeDiff % trainFrequencyInput;
 
-  		//cant figure out the logic of this part
+  		//cant figure out the logic of this part; reminder calculation does not yield correct time that I need
   		var minutesTillNextTrain = trainFrequencyInput - timeRemaining;
 
   		console.log(minutesTillNextTrain);
